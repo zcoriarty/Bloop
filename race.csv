@@ -1,0 +1,31 @@
+﻿RACE,Estimate,Margin of Error,Percent,Margin of Error
+    Total population,"322,903,030",*****,"322,903,030",(X)
+        One race,"312,467,233","±95,465",96.80%,±0.1
+        Two or more races,"10,435,797","±95,419",3.20%,±0.1
+        One race,"312,467,233","±95,465",96.80%,±0.1
+            White,"234,904,818","±49,642",72.70%,±0.1
+            Black or African American,"40,916,113","±31,375",12.70%,±0.1
+            American Indian and Alaska Native,"2,699,073","±12,129",0.80%,±0.1
+                Cherokee tribal grouping,"290,917","±4,199",0.10%,±0.1
+                Chippewa tribal grouping,"118,234","±2,321",0.00%,±0.1
+                Navajo tribal grouping,"329,271","±4,462",0.10%,±0.1
+                Sioux tribal grouping,"121,834","±2,479",0.00%,±0.1
+            Asian,"17,574,550","±20,968",5.40%,±0.1
+                Asian Indian,"3,852,293","±19,207",1.20%,±0.1
+                Chinese,"4,199,705","±22,837",1.30%,±0.1
+                Filipino,"2,843,071","±16,000",0.90%,±0.1
+                Japanese,"773,714","±8,927",0.20%,±0.1
+                Korean,"1,455,834","±10,324",0.50%,±0.1
+                Vietnamese,"1,781,447","±18,381",0.60%,±0.1
+                Other Asian,"2,668,486","±23,181",0.80%,±0.1
+            Native Hawaiian and Other Pacific Islander,"582,718","±5,451",0.20%,±0.1
+                Native Hawaiian,"180,622","±4,236",0.10%,±0.1
+                Guamanian or Chamorro,"86,327","±3,318",0.00%,±0.1
+                Samoan,"114,997","±3,659",0.00%,±0.1
+                Other Pacific Islander,"200,772","±5,565",0.10%,±0.1
+            Some other race,"15,789,961","±90,295",4.90%,±0.1
+        Two or more races,"10,435,797","±95,419",3.20%,±0.1
+            White and Black or African American,"2,808,897","±31,046",0.90%,±0.1
+            White and American Indian and Alaska Native,"1,914,487","±12,184",0.60%,±0.1
+            White and Asian,"2,174,150","±26,032",0.70%,±0.1
+            Black or African American and American Indian and Alaska Native,"313,482","±7,086",0.10%,±0.1
